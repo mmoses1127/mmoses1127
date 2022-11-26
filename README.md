@@ -47,6 +47,7 @@
 </details>
 
 [Linkedin](https://www.linkedin.com/in/michael-moses-8786b615) | 
-[Portfolio](https://mmoses1127.github.io/portfolio_site)
+[Portfolio](https://mmoses1127.github.io/portfolio_site) | 
+[Email](mailto:mmoses1127@gmail.com)
 
 
