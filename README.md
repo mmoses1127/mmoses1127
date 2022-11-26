@@ -4,9 +4,7 @@
 - 🔭 I’m currently working on Treasure, a digital scavenger hunt app.
 - 🌱 I’m currently learning Express.js and MongoDB.
 - 👯 I’m looking to collaborate on athletic performance, education, and map interaction applications.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/michael-moses-8786b615/)
 
-<br />
 
 ### Languages and Tools:
 
