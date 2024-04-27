@@ -33,15 +33,6 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Michael's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mmoses1127&show_icons=true&hide_border=true" />
-
-  <br />
-  
-</details>
-
-<details>
   <summary>:zap: Most Used Languages</summary>
 
 <img align="left" alt="Michael's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmoses1127" />
