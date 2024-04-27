@@ -1,7 +1,7 @@
 ### Hey! I'm Michael 👋
 
 
-- 🔭 I’m currently working on uNetwrk, a netwroking contact management platform.
+- 🔭 I’m currently working on uNetwrk, a netwroking contact management platform, with a React/Ruby on Rails stack.
 - 🌱 I’m also working in Terraform, Java Springboot, and AWS.
 - 👯 I’m looking to collaborate on fintech, athletic performance, education, or mapping applications.
 
