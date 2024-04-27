@@ -1,9 +1,9 @@
 ### Hey! I'm Michael 👋
 
 
-- 🔭 I’m currently working on Treasure, a digital scavenger hunt app.
-- 🌱 I’m currently learning Express.js and MongoDB.
-- 👯 I’m looking to collaborate on athletic performance, education, and map interaction applications.
+- 🔭 I’m currently working on uNetwrk, a netwroking contact management platform.
+- 🌱 I’m also working in Terraform, Java Springboot, and AWS.
+- 👯 I’m looking to collaborate on fintech, athletic performance, education, or mapping applications.
 
 
 ### Languages and Tools:
